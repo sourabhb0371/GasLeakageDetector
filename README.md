@@ -6,5 +6,19 @@ SOFTWARE USED :-
   1) Arduino IDE
   2) Language - C++
   3) IOT Based Platform - Blynk App
+  
+MATERIALS USED :-
+  1) MQ4 gas sensor  
+  2) NodeMCU ESP8266
+  3) 4 Channel 5V Relay Module 
+  4) Resistor 220Ω x 2
+  5) 5V Buzzer 
+  6) Led Red x 1
+  7) Led Blue x 1
+  8) 220v Bulb
+  9) Wires
+  10) Breadboard
+  11) Mobile Charger as power supply(5v/1A)
+
 
 
