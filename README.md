@@ -4,7 +4,7 @@ LPG (Liquid Petroleum Gas) is use almost in every house for cooking purpose. Thi
 
 SOFTWARE SPECIFICATIONS:-
   1) Arduino IDE
-  2) Language - C++
+  2) Programming Language - C++
   3) IOT Based Platform - Blynk App
   
 HARDWARE SPECIFICATIONS:-
